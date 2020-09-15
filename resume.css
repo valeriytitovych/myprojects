@@ -1,0 +1,61 @@
+@font-face {
+	font-family: "Alternate Gothic No1 D";
+	src: url("./Alternate Gothic No1 D.woff"), 
+	     url("./Alternate-Gothic-No1-Regular.ttf");
+}
+
+body {
+       font-family:      Georgia, "New York", "Times New Roman", serif;
+       background-color: #b1ffe6;
+       font-size:        small;
+       margin:           0px;
+}
+
+ h1 {
+        font-size:        130%;
+        color:            #954b4b;
+}
+      
+h2 { 
+        font-size:        120%; 
+        color:            #954b4b;
+}
+
+h3 { 
+    font-size:        120%; 
+    color:            #954b4b;
+}
+
+a:link {
+        color:            #b76666;
+        text-decoration:  none;
+        border-bottom:    thin dotted #b76666;
+        font-weight: bold;
+}
+      
+a:visited {
+        color:            #675c47;
+        text-decoration:  none;
+        border-bottom:    thin dotted #675c47;
+        font-weight: bold;
+}
+
+footer {
+    background-color: #b1d8ff;
+    color:            #954b4b;
+    text-align:       center;
+    padding:          15px;
+    margin: 0px 10px 10px 10px;
+    font-size:        90%;
+}
+
+span {
+    color:            #954b4b;
+}
+
+img#myphoto {
+        float: right;
+        border: thin dotted;
+        padding: 15px; 
+        margin-right: 10px; 
+}

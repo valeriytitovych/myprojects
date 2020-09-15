@@ -1,0 +1,16 @@
+.center {
+    background: repeating-linear-gradient(to right,
+                #121116,
+                #121116 80px,
+                #2a25b2 80px,
+                #2a25b2 160px);                    
+    height: 350px;
+    width: 60%; 
+}
+
+.block {
+    display: flex;
+    justify-content: center;    
+    background-color: #121116;
+    margin-top: 150px;
+}
